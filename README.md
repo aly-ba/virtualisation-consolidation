@@ -1,0 +1,2 @@
+# virtualisation-consolidation
+ architecture classique
